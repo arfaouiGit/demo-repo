@@ -1,1 +1,2 @@
 This is my first Git and GitHub demo
+Conflicts are not fun!
